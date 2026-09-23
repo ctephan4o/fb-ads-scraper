@@ -1,0 +1,22 @@
+# Advertisers to skip — one per line, page id OR exact page name.
+# Put existing Motion/Runneth customers here so they never appear as leads.
+# Lines starting with # are ignored.
+
+# Platforms and marketplaces that always have thousands of ads and are not prospects
+Amazon
+Temu
+Shein
+Walmart
+Target
+eBay
+Etsy
+Wish
+AliExpress
+Meta
+Instagram
+Facebook
+Google
+Microsoft
+Apple
+Netflix
+Disney+

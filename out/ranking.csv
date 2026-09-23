@@ -1,0 +1,111 @@
+page_id,page_name,distinct_ads_surfaced,keywords,collation_total,p_heavy,p_buyer,decision
+108268605296897,TikTok - US,2,skincare,0,0.270,0.370,skip_not_buyer
+101039196037152,TikTok - EU,1,skincare,0,0.070,0.490,skip_unlikely
+1806087489455976,Dot & Key,1,"serum, skincare",1,0.010,0.950,skip_unlikely
+2003695169857895,Beauty From Bees,8,"anti-aging, moisturizer, retinol, serum, skincare",8,0.040,0.950,count
+42420028113,IT Cosmetics,2,skincare,4,0.100,0.660,skip_unlikely
+342731281284,all Laundry,1,skincare,1,0.080,0.670,skip_unlikely
+750587898419590,HIKOCO,1,skincare,0,0.010,0.900,skip_unlikely
+140620315959593,CeraVe Skincare,9,"anti-aging, cleanser, serum, skincare",21,0.260,0.830,count
+382489881621037,Quia Korean Beauty,2,"retinol, skincare",2,0.120,0.860,skip_unlikely
+112727500143177,Whatnot,4,"retinol, serum, skincare",1,0.170,0.600,count
+177838682849328,SYD,1,skincare,2,0.020,0.550,skip_unlikely
+104229891456069,Qure Skincare,2,"acne, anti-aging, moisturizer, serum, skincare",1,0.010,0.930,skip_unlikely
+114551658280160,Sheryl Davis,1,skincare,1,0.060,0.910,skip_unlikely
+994234910441322,OLIVE YOUNG US,2,"cleanser, serum, skincare",0,0.070,0.880,skip_unlikely
+22437985072,Alibaba.com,1,skincare,0,0.020,0.720,skip_unlikely
+108998290937265,Dabur Meswak,1,skincare,1,0.110,0.880,skip_unlikely
+127483917278156,Eau Thermale Avène,6,"cleanser, skincare",0,0.360,0.950,count
+286863750778,Olay,12,"retinol, skincare",8,0.010,0.890,count
+341065345905180,Noy Skincare,1,skincare,1,0.010,0.860,skip_unlikely
+161067203973094,Bilxco,5,"acne, moisturizer, skincare",4,0.030,0.790,count
+121135054419977,Korean Skincare Reviews,1,skincare,4,0.010,0.900,skip_unlikely
+105818505893759,Ballboyz Soap,1,skincare,3,0.060,0.750,skip_unlikely
+1408472835865145,KISQALI (ribociclib),1,serum,2,0.100,0.570,skip_unlikely
+95811339310,REVOLVE,3,serum,0,0.130,0.840,count
+102912501710924,Rosa Selvagem OFC,1,serum,1,0.210,0.900,count
+382082355205211,Dove,4,serum,4,0.220,0.840,count
+112073498622361,Meditherapy.Global,2,serum,0,0.050,0.860,skip_unlikely
+27355912949,Gillette Venus,1,"cleanser, serum",1,0.060,0.940,skip_unlikely
+202470527313669,L'Oréal Paris,5,"moisturizer, serum",7,0.240,0.930,count
+207391868502,SkinCeuticals,2,serum,11,0.220,0.960,count
+374164243413605,Chāmpo Haircare,1,serum,1,0.090,0.950,skip_unlikely
+238229986273832,La Prairie,1,serum,1,0.070,0.960,skip_unlikely
+119133458143386,Dr. Barbara Sturm,1,"anti-aging, serum",1,0.070,0.950,skip_unlikely
+102507806502481,Wild Growth Hair Care,3,moisturizer,3,0.020,0.870,count
+361472001371043,Base,2,"moisturizer, sunscreen",0,0.060,0.550,skip_unlikely
+110307637994704,Dr. Muneeb Shah,1,"acne, moisturizer, sunscreen",1,0.080,0.590,skip_unlikely
+138439552622,StriVectin,1,moisturizer,1,0.240,0.950,count
+101100400538,Bobbi Brown Cosmetics,3,moisturizer,12,0.160,0.970,count
+662331720305715,Bare Ritual,1,moisturizer,1,0.000,0.930,skip_unlikely
+112829642096923,Dr Laura,1,moisturizer,0,0.010,0.880,skip_unlikely
+113679117022557,"Dr. Samantha Ellis, MD",1,moisturizer,1,0.010,0.930,skip_unlikely
+224137656265420,PrettyBoy,1,"acne, moisturizer",1,0.090,0.970,skip_unlikely
+639104486113338,Medicine Mama,1,moisturizer,1,0.010,0.910,skip_unlikely
+114830840156278,Smooche,2,"anti-aging, moisturizer",7,0.040,0.870,count
+16453004404,Sephora,5,"acne, cleanser, moisturizer",0,0.550,0.910,count
+2060170440954494,Dieux,1,moisturizer,2,0.010,0.960,skip_unlikely
+112882131741114,Bonjout Beauty,1,moisturizer,1,0.010,0.950,skip_unlikely
+788912090981065,Beauty After 50,1,moisturizer,0,0.070,0.820,skip_unlikely
+337470849796957,Vibriance,1,moisturizer,0,0.060,0.930,skip_unlikely
+357357804458100,Alastin Skincare,1,"moisturizer, sunscreen",8,0.060,0.970,count
+534754226586678,DoorDash,1,moisturizer,0,0.460,0.880,count
+102720306122788,메종드엠의원,1,anti-aging,1,0.010,0.830,skip_unlikely
+22277123230,The Vitamin Shoppe,1,anti-aging,0,0.020,0.530,skip_unlikely
+180386731824458,Modern Man Cave,1,"anti-aging, retinol",0,0.020,0.430,skip_unlikely
+970427359485076,K-Beauty Tips,2,anti-aging,2,0.030,0.760,skip_unlikely
+465173070005445,40 Plus & Fabulous,1,anti-aging,0,0.030,0.770,skip_unlikely
+558873857300278,algorx,1,anti-aging,0,0.170,0.960,skip_unlikely
+110959021458007,JOVS,2,anti-aging,13,0.020,0.680,count
+114782059941624,"Robert Love, Brain Health Expert",2,anti-aging,3,0.020,0.190,skip_unlikely
+413639685177061,Kleam Clinic English,2,"acne, anti-aging",1,0.000,0.910,skip_unlikely
+70019838040,LovelySkin.com,1,anti-aging,0,0.090,0.950,skip_unlikely
+107120738537338,Hume Health,1,anti-aging,1,0.020,0.940,skip_unlikely
+602241646302170,Kim Ji Soo 김지수 - Korean Skincare Expert,2,"anti-aging, retinol",2,0.030,0.380,skip_unlikely
+388460188012140,Hanacure,1,anti-aging,1,0.040,0.840,skip_unlikely
+1291290990727173,Thin Skin Community,1,anti-aging,4,0.030,0.740,skip_unlikely
+509205278938288,Eqqualberry-Global,1,anti-aging,1,0.030,0.860,skip_unlikely
+358527744010018,Pureskin,3,"acne, retinol",3,0.010,0.880,count
+103380518715400,Black Girl Vitamins,1,acne,1,0.030,0.870,skip_unlikely
+118850983988,Massage Envy,1,acne,1,0.030,0.950,skip_unlikely
+146046529286976,Hero Cosmetics,1,"acne, cleanser",1,0.050,0.960,skip_unlikely
+683748144815985,Saeskyn,1,acne,1,0.140,0.950,skip_unlikely
+172497939438634,PanOxyl,1,acne,7,0.130,0.950,count
+358401340692615,MuscleMax Nutrition,1,acne,3,0.030,0.910,skip_unlikely
+417354944788041,Scentric Glow,1,acne,1,0.010,0.540,skip_unlikely
+100427111842981,Jasthetics Clinic,1,acne,1,0.040,0.910,skip_unlikely
+268818459646425,Shield Labs,1,acne,2,0.040,0.930,skip_unlikely
+1613109158994048,Differin,1,acne,3,0.010,0.810,skip_unlikely
+859925427381656,Meredith Masony,2,acne,1,0.010,0.820,skip_unlikely
+168102063209449,Advanced Dermatology and Skin Cancer Center,1,acne,1,0.000,0.870,skip_unlikely
+408298409369276,Asarai,1,acne,2,0.010,0.930,skip_unlikely
+605585299524797,Beauty By Earth,1,acne,1,0.050,0.940,skip_unlikely
+120141247670484,CLEAR Acne Treatment Centers,1,acne,1,0.120,0.950,skip_unlikely
+1913891975415966,Fetch,1,sunscreen,2,0.190,0.560,skip_unlikely
+127537745692,Discovery Cove,2,sunscreen,2,0.070,0.920,skip_unlikely
+357271311061455,EltaMD Skin Care,1,sunscreen,1,0.110,0.860,skip_unlikely
+730460987154021,PostFun,1,sunscreen,0,0.020,0.240,skip_unlikely
+104847301722609,Naturelle Nubian,1,sunscreen,1,0.000,0.730,skip_unlikely
+171647102705180,tashportcosmetics,1,sunscreen,1,0.000,0.490,skip_unlikely
+106618109384557,SwimZip,2,sunscreen,2,0.070,0.940,skip_unlikely
+27012464469,SwimOutlet.com,1,sunscreen,0,0.140,0.910,skip_unlikely
+105546979319281,Emmafy,1,sunscreen,1,0.030,0.860,skip_unlikely
+2321606001391762,C4 Energy,1,sunscreen,2,0.330,0.830,count
+334288436444988,EveryMarket,2,retinol,0,0.110,0.680,skip_unlikely
+208746615851264,RoC Skincare,1,retinol,1,0.290,0.890,count
+118259961876,Tatcha,1,retinol,4,0.410,0.620,count
+60004615820,Groupon,1,retinol,0,0.010,0.740,skip_unlikely
+110438335027165,Marée,1,retinol,1,0.020,0.870,skip_unlikely
+278851805311073,Frøya Organics,1,retinol,5,0.010,0.920,count
+801980489663537,Quia Korean Skincare,1,retinol,1,0.110,0.830,skip_unlikely
+965526076802934,Native,2,cleanser,2,0.180,0.930,skip_unlikely
+1122625494421398,Respected Roots,1,cleanser,1,0.560,0.900,count
+79775744089,Victoria's Secret,1,cleanser,0,0.230,0.740,count
+1369755289823565,Runway,1,cleanser,1,0.130,0.400,skip_unlikely
+816360188216830,Centovita International,1,cleanser,1,0.110,0.660,skip_unlikely
+132122720181624,Cetaphil,1,cleanser,1,0.180,0.850,skip_unlikely
+148208127220,Soft Scrub,2,cleanser,2,0.040,0.730,skip_unlikely
+815125055006760,I See You Royalty,1,cleanser,1,0.000,0.780,skip_unlikely
+106307848250435,Nimi Skincare,1,cleanser,0,0.010,0.830,skip_unlikely
+315362238333405,Arencia Global,1,cleanser,3,0.050,0.910,skip_unlikely
+1098892030125622,Meet Blume,1,cleanser,2,0.030,0.930,skip_unlikely

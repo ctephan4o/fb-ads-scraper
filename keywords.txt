@@ -1,0 +1,61 @@
+# One search per line. Results come back sorted by impressions, so generic
+# ad-copy phrases surface the biggest spenders regardless of vertical.
+# Add or remove freely. Each line costs up to --search-depth credits.
+
+# Generic high-spend ad copy
+shop now
+free shipping
+limited time
+sale ends
+try it free
+get started today
+new arrivals
+best seller
+30 day money back
+subscribe and save
+
+# DTC verticals that live on Meta
+skincare
+supplements
+protein
+activewear
+sneakers
+jewelry
+mattress
+furniture
+home decor
+pet food
+baby
+sunglasses
+coffee
+meal kit
+haircare
+vitamins
+apparel
+underwear
+swimwear
+candles
+
+# Apps and subscriptions
+download the app
+weight loss
+meditation
+language learning
+dating
+budgeting
+investing
+fitness app
+telehealth
+online therapy
+
+# Services heavy on paid social
+solar
+insurance
+lawyer
+dental
+hearing aids
+home warranty
+moving
+tutoring
+real estate
+mortgage
